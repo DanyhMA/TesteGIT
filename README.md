@@ -1,3 +1,2 @@
-# TesteGIT
-Autora: Daniela Medeiros de Araujo
-Data: 17/08/2022
+# API-CEP
+Implementando API de CEP.
